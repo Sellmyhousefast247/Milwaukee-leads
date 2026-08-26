@@ -343,6 +343,41 @@ class ClerkScraper:
             "Referer": "https://wcca.wicourts.gov/advanced.html",
         })
 
+    # WCCA blocks some datacenter IP ranges (intermittent from CI runners).
+    # Probe cheaply before burning full timeouts, and wait-retry the whole
+    # pass a few times before giving up -- the block often clears between
+    # runner sessions / over a few minutes.
+    PROBE_TIMEOUT = 12
+    PROBE_ATTEMPTS = 6
+    PROBE_WAIT = 120
+
+    def _alive(self) -> bool:
+        payload = {
+            "includeMissingDob": True, "includeMissingMiddleName": True,
+            "countyNo": COUNTY_NO, "attyType": "partyAtty", "caseType": "CV",
+            "classCode": "30404",
+            "filingDate": {"start": self.default_end.strftime("%m-%d-%Y"),
+                            "end": self.default_end.strftime("%m-%d-%Y")},
+        }
+        try:
+            r = self.session.post(WCCA_URL, json=payload, timeout=self.PROBE_TIMEOUT)
+            return r.status_code == 200
+        except Exception:
+            return False
+
+    def _wait_for_wcca(self) -> bool:
+        for attempt in range(1, self.PROBE_ATTEMPTS + 1):
+            if self._alive():
+                log.info("WCCA reachable (probe %d)", attempt)
+                return True
+            if attempt < self.PROBE_ATTEMPTS:
+                log.warning("WCCA unreachable (probe %d/%d) -- waiting %ds",
+                            attempt, self.PROBE_ATTEMPTS, self.PROBE_WAIT)
+                time.sleep(self.PROBE_WAIT)
+        log.error("WCCA unreachable after %d probes -- skipping court records this run",
+                  self.PROBE_ATTEMPTS)
+        return False
+
     def _slices(self, start: datetime, end: datetime):
         cur = start
         while cur <= end:
@@ -378,13 +413,17 @@ class ClerkScraper:
             if attempt < RETRY_COUNT - 1:
                 time.sleep(RETRY_DELAY + random.random())
         if not data:
+            self._consec_fail = getattr(self, "_consec_fail", 0) + 1
             return []
+        self._consec_fail = 0
         if data.get("error"):
             log.warning("WCCA %s API error: %s", case_type, data["error"])
         cases = (data.get("result") or {}).get("cases") or []
         return cases
 
     def run(self) -> list[LeadRecord]:
+        if not self._wait_for_wcca():
+            return []
         seen: set[str] = set()
         records: list[LeadRecord] = []
         for case_type, class_code, cat, cat_label in WCCA_QUERIES:
@@ -392,6 +431,12 @@ class ClerkScraper:
             code_str = f"{case_type}" + (f"/{class_code}" if class_code else "")
             count = 0
             for s, e in self._slices(start, self.default_end):
+                if getattr(self, "_consec_fail", 0) >= 3:
+                    log.warning("WCCA: 3 consecutive failures -- re-probing")
+                    self._consec_fail = 0
+                    if not self._wait_for_wcca():
+                        log.error("WCCA lost mid-run -- aborting remaining court queries")
+                        return records
                 cases = self._fetch(case_type, class_code, s, e)
                 if len(cases) >= 400:
                     log.warning("WCCA %s %s..%s returned %d cases -- possible cap",
