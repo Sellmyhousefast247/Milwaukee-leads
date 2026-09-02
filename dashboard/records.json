@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-01T13:13:45.659966",
+  "fetched_at": "2026-09-02T13:13:44.362981",
   "county": "Milwaukee",
   "source": "Milwaukee County, WI -- WCCA Courts + Sheriff Sales + Parcel API + MPROP",
   "date_range": {
-    "start": "2026-08-25",
-    "end": "2026-09-01"
+    "start": "2026-08-26",
+    "end": "2026-09-02"
   },
   "total": 26,
   "new_7d": 26,
@@ -19,39 +19,6 @@
     "PRO": 0
   },
   "records": [
-    {
-      "doc_num": "2024CV009227",
-      "doc_type": "SHERIFF SALE",
-      "cat": "foreclosure",
-      "cat_label": "Sheriff Sale (Active)",
-      "filed": "2026-09-14",
-      "owner": "Steven Higbee",
-      "grantee": "Huntington National Bank",
-      "amount": 0.0,
-      "legal": "Sheriff sale 2026-09-14 | Taxkey 4190093000",
-      "prop_address": "140 South 72nd Street",
-      "prop_city": "Milwaukee",
-      "prop_state": "WI",
-      "prop_zip": "53214",
-      "mail_address": "140 S 72ND ST",
-      "mail_city": "Milwaukee",
-      "mail_state": "WI",
-      "mail_zip": "53214",
-      "clerk_url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2024CV009227&countyNo=40&index=0",
-      "flags": [
-        "Pre-foreclosure",
-        "New this week",
-        "Has address"
-      ],
-      "score": 60,
-      "status": "NEW",
-      "first_seen": "2026-09-01",
-      "rid": "f1ced334ad65fd00",
-      "content_hash": "a8418a5022f79254",
-      "cat_code": "FC",
-      "absentee": true,
-      "out_of_state": false
-    },
     {
       "doc_num": "2024CV004512",
       "doc_type": "SHERIFF SALE",
@@ -477,6 +444,39 @@
       "first_seen": "2026-08-26",
       "rid": "9b2e9a9fb61e7c5a",
       "content_hash": "08070d06062e7b83",
+      "cat_code": "FC",
+      "absentee": true,
+      "out_of_state": false
+    },
+    {
+      "doc_num": "2024CV009227",
+      "doc_type": "SHERIFF SALE",
+      "cat": "foreclosure",
+      "cat_label": "Sheriff Sale (Active)",
+      "filed": "2026-09-14",
+      "owner": "Steven Higbee",
+      "grantee": "Huntington National Bank",
+      "amount": 0.0,
+      "legal": "Sheriff sale 2026-09-14 | Taxkey 4190093000",
+      "prop_address": "140 South 72nd Street",
+      "prop_city": "Milwaukee",
+      "prop_state": "WI",
+      "prop_zip": "53214",
+      "mail_address": "140 S 72ND ST",
+      "mail_city": "Milwaukee",
+      "mail_state": "WI",
+      "mail_zip": "53214",
+      "clerk_url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2024CV009227&countyNo=40&index=0",
+      "flags": [
+        "Pre-foreclosure",
+        "New this week",
+        "Has address"
+      ],
+      "score": 60,
+      "status": "EXISTING",
+      "first_seen": "2026-09-01",
+      "rid": "f1ced334ad65fd00",
+      "content_hash": "a8418a5022f79254",
       "cat_code": "FC",
       "absentee": true,
       "out_of_state": false
