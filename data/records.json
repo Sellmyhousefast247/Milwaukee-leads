@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-04T20:18:14.219216",
+  "fetched_at": "2026-11-05T20:32:56.010034",
   "county": "Milwaukee",
   "source": "Milwaukee County, WI -- WCCA Courts + Sheriff Sales + Parcel API + MPROP",
   "date_range": {
-    "start": "2026-10-28",
-    "end": "2026-11-04"
+    "start": "2026-10-29",
+    "end": "2026-11-05"
   },
   "total": 0,
   "new_7d": 0,
