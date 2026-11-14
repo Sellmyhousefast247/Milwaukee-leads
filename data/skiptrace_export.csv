@@ -1,7 +1,64 @@
 First Name,Last Name,Mailing Address,Mailing City,Mailing State,Mailing Zip,Property Address,Property City,Property State,Property Zip
-Estate,Of Henri-Etta V. Pryor,,,WI,,,,WI,
+Alex,Lorenz,12130 W WHITE OAK DR,Greenfield,WI,53228,12130 W WHITE OAK DR,Greenfield,WI,53228
+Margarito,Rodriguez,1415 N 67TH ST,Wauwatosa,WI,53213,1415 N 67TH ST,Wauwatosa,WI,53213
+Jeffrey,A Thomas,11933 W BURDICK AVE,West Allis,WI,53227,,,WI,
+Tess,M. Kogel,,,WI,,,,WI,
+Luke,E. Wehrman,,,WI,,,,WI,
+Alexander,Robinson,,,WI,,,,WI,
+Jeffrey J.,Dethloff,,,WI,,,,WI,
+Edward D.,Bruski,,,WI,,,,WI,
+Carlos,Melendez Rodriguez,4663 N 109TH ST,Wauwatosa,WI,53225,,,WI,
+Wilson,Dorsey,,,WI,,,,WI,
+Jose,Luis Trujillo,,,WI,,,,WI,
+Monica,Dotson,,,WI,,,,WI,
+Stephanie,Burgess,,,WI,,,,WI,
+James,E Tatum,,,WI,,,,WI,
+Claudio,R Esquer,,,WI,,,,WI,
+Wilson,Dorsey,,,WI,,,,WI,
+John,H Wesley,3827 N FREDERICK AVE,Shorewood,WI,53211,,,WI,
+Claudio,R Esquer,,,WI,,,,WI,
+Harry,L Hendricks,,,WI,,,,WI,
+Alexana,Gudex,,,WI,,,,WI,
+Wesley,J Langford,,,WI,,,,WI,
+Jasmine,Johnson,8982 S BLUESTEM CT,Franklin,WI,53132,8982 S BLUESTEM CT S,Franklin,WI,53132
+Amber,N. Whitley,4531 N 103RD ST,Wauwatosa,WI,53225,4531 N 103RD ST,Wauwatosa,WI,53225
+Hashim,Bin Ali,711 E MARY LN,Oak Creek,WI,53154,711 E MARY LN,Oak Creek,WI,53154
 Montrelle,Wilkins,,,WI,,,,WI,
+Estate,Of Henri-Etta V. Pryor,,,WI,,,,WI,
+Gustavo,Gomez,,,WI,,,,WI,
+Marcia,Johnson,1351 N 64TH ST,Wauwatosa,WI,53213,,,WI,
+Nestor,Dejesus Fletes Prado,,,WI,,,,WI,
+Timothy,R. Leister,,,WI,,,,WI,
+Debria,Moncree,,,WI,,,,WI,
+Joel,R. Hunter,,,WI,,,,WI,
+Tracee,Cooper,,,WI,,,,WI,
+Frederick,E. Black,,,WI,,,,WI,
+Brenda,Williams Pearson,,,WI,,,,WI,
+Terrence,L. Stricklin,,,WI,,,,WI,
+John,Russell Campbell,,,WI,,,,WI,
+Virginia,Gipson,,,WI,,,,WI,
+Sunghyop,Paek,,,WI,,,,WI,
+Deceased,Estate Of Kenneth Ray Dean,,,WI,,,,WI,
+Kathy,M Harris,,,WI,,,,WI,
+Angelo,Enrique Flores,,,WI,,,,WI,
+Isaac,Camacho-Medina,,,WI,,,,WI,
+Shatoya,Payton,,,WI,,,,WI,
+Tamika,K. Flagg,,,WI,,,,WI,
+Kelly,Nelson,2551 N WEIL ST,Milwaukee,WI,53212,,,WI,
+Stephanie,Vazquez,,,WI,,,,WI,
+Laurene A,Reynolds,11221 W POTTER RD,Wauwatosa,WI,53226,11221 W POTTER RD,Wauwatosa,WI,53226
+Mary E,Ginger,3934 E MARTIN AVE,Cudahy,WI,53110,3934 E MARTIN AVE,Cudahy,WI,53110
 Baheejah,T Butler,4111 N 61 ST,Milwaukee,WI,53216,4111 N 61ST ST,Milwaukee,WI,53216
+Cametria,Anderson,6910 S HARVARD DR,Franklin,WI,53132,6910 S HARVARD DR S,Franklin,WI,53132
+Richard,R. Smith Jr.,1722 N 119TH ST,Wauwatosa,WI,53226,1722 N 119TH ST,Wauwatosa,WI,53226
+Noel,Torres Santiago,7406 N SANTA MONICA BLVD,Fox Point,WI,53217,3214 S 22ND ST,Milwaukee,WI,53215
+Nicole,M Riley,4122 S 84TH ST,Milwaukee,WI,53228,4122 S 84TH ST,Greenfield,WI,53220
+Xia,M Yang,6301 N 91ST ST,Milwaukee,WI,53225,6301 N 91ST ST,Milwaukee,WI,53225
+Wangs,Housing Solutions Inc,4320 W VILLARD AVE,Milwaukee,WI,53218,4408 N 62ND ST,Milwaukee,WI,53218
+Three,A Company,8 W SHORE RD,Belvedere,CA,94920,1600 W WISCONSIN AVE,Milwaukee,WI,53233
+Best,For Le$$ Llc,2541 N 19TH ST #B,Milwaukee,WI,53206,4839 N GREEN BAY AVE,Milwaukee,WI,53209
+2571,N 40Th Llc,539 MADISON ST,Waukesha,WI,53188,2571 N 40TH ST,Milwaukee,WI,53210
+2207,Property Llc,PO BOX 1044,Milwaukee,WI,53201,2207 N 32ND ST,Milwaukee,WI,53208
 Jarvis,Edwards,1314 W GROELING AVE,Milwaukee,WI,53206,1314 W GROELING AVE,Milwaukee,WI,53206
 Latanya,Jones,3030 N 37TH ST,Milwaukee,WI,53210,3030 N 37TH ST,Milwaukee,WI,53210
 Jarvis,Edwards,1314 W GROELING AVE,Milwaukee,WI,53206,1314 W GROELING AVE,Milwaukee,WI,53206
@@ -10,9 +67,66 @@ Vicente,Gerardo Paz Cortez,10319 W JUNIPER ST,Milwaukee,WI,53224,10319 W JUNIPER
 Erick,W. Reed,541 E ERIE ST #415-2,Milwaukee,WI,53202,541 E ERIE ST 415,Milwaukee,WI,53202
 Walter,T Mueller,4504 N 101ST ST,Wauwatosa,WI,53225,4504 N 101ST ST,Wauwatosa,WI,53225
 Belinda,Brown,7305 W WELLAUER DR,Wauwatosa,WI,53213,7305 WELLAUER DR,Wauwatosa,WI,53213
+Llc,West Allis Hotel Ventures,8201 W GREENFIELD AVE,West Allis,WI,53214,8201 W GREENFIELD AVE,West Allis,WI,53214
+Pbj,Oak Creek Llc,8901 NILES CENTER RD,Skokie,IL,60076,7141 S 13TH ST,Oak Creek,WI,53154
+Mary,L. Mason,2567 N BARTLETT AVE,Milwaukee,WI,53211,2567 N BARTLETT AVE,Milwaukee,WI,53211
+Jo-Will,Llc,129 W TOWNSEND ST,Milwaukee,WI,53212,2901 N DR WILLIAM FINLAYSON ST,Milwaukee,WI,53212
+Houses,Incorporated,103 W CHAMBERS ST,Milwaukee,WI,53212,2576 N 17TH ST,Milwaukee,WI,53206
+Scott,L Thomas,7820 WARREN AVE,Wauwatosa,WI,53213,7820 WARREN AVE,Wauwatosa,WI,53213
+Anwar Nafis,Floyd Pruitt,2237 N 49TH ST,Milwaukee,WI,53208,2237 N 49TH ST,Milwaukee,WI,53208
+Mabel Jane,Lovett,421 E WYNBROOK DR,Oak Creek,WI,53154,421 E WYNBROOK DR,Oak Creek,WI,53154
+Thomas M.,Lanphier,9633 S 35TH ST,Franklin,WI,53132,9633 S 35TH ST S,Franklin,WI,53132
+James,Clay,5038 N LYDELL AVE,Whitefish Bay,WI,53217,5038 N LYDELL AVE,Whitefish Bay,WI,53217
+Michael James,Bennett,4630 N 32ND ST,Milwaukee,WI,53209,4630 N 32ND ST,Milwaukee,WI,53209
+Lucille J.,Wagner,11905 W OXFORD PL,Wauwatosa,WI,53226,11905 W OXFORD PL,Wauwatosa,WI,53226
+Lucille J,Wagner,11905 W OXFORD PL,Wauwatosa,WI,53226,11905 W OXFORD PL,Wauwatosa,WI,53226
+Aaron John,Sprecher,145 N 86TH ST,Wauwatosa,WI,53226,145 N 86TH ST,Wauwatosa,WI,53226
+Edward N.,Dane,10450 W ST FRANCIS AVE,Greenfield,WI,53228,10450 W ST FRANCIS AVE,Greenfield,WI,53228
+Ventley Roy,Williams,719 S 92 ST,West Allis,WI,53214,719 S 92ND ST,West Allis,WI,53214
+Michael P,Thomson,1045 N PERRY CT,Wauwatosa,WI,53213,1045 N PERRY CT,Wauwatosa,WI,53213
+Joel S,Krueger,7216 S DOVER HILL CT,Franklin,WI,53132,7216 S DOVER HILL CT S,Franklin,WI,53132
+Rosevelt,Williams Sr.,8657 S DEERWOOD LN,Franklin,WI,53132,8657 S DEERWOOD LN S,Franklin,WI,53132
+Michael Joseph,Brooks,2128 E HOLT AV,Milwaukee,WI,53207,2128 E HOLT AVE,Milwaukee,WI,53207
+Randy S.,Robinson,2720 N 95TH STREET,Milwaukee,WI,53222,2720 N 95TH ST,Milwaukee,WI,53222
+John Benjamin,Sanders,12141 PARKVIEW LN,Hales Corners,WI,53130,12141 PARKVIEW LN,Hales Corners,WI,53130
+Rise L.,Kaiser,7822 STICKNEY AVE,Wauwatosa,WI,53213,7822 STICKNEY AVE,Wauwatosa,WI,53213
+Randall P.,Gnadt,2617 N WAHL AVE,Milwaukee,WI,53211,2617 N WAHL AVE,Milwaukee,WI,53211
+Janice M.,Casper,4185 S 92 ST,Greenfield,WI,53228,4185 S 92ND ST,Greenfield,WI,53228
+Katherine Anne,Collins,806 E KILBOURN AVE,Milwaukee,WI,53202,2014 N 86TH ST,Wauwatosa,WI,53226
+"Daniel G, Jr",Mattes,7416 CARTER CIR,W Franklin,WI,53132,7416 W CARTER CIR W,Franklin,WI,53132
+Richard Robert,Fraundorf,,,WI,,,,WI,
+Helen Marie,Dixon,,,WI,,,,WI,
+Roger W,Tollefson,,,WI,,,,WI,
+Annette H,Engel,,,WI,,,,WI,
+Gretchen,St.Julien,,,WI,,,,WI,
+Marilyn Hatz,Storney,,,WI,,,,WI,
+Dorothy,Dzierzewski,,,WI,,,,WI,
+Gregory Lamar,Powell,,,WI,,,,WI,
+Maxine,Bates,1811 N 118TH ST,Wauwatosa,WI,53226,1811 N 118TH ST,Wauwatosa,WI,53226
 Robert J,Hardy,,,WI,,,,WI,
 Elizabeth F.,Zaza,,,WI,,,,WI,
 Leatha,Morse,,,WI,,,,WI,
+Carol,Baewer,,,WI,,,,WI,
+Kristi M.,Nauertz,,,WI,,,,WI,
+Kevin G,Otzelberger,,,WI,,,,WI,
+Dale,Galten,,,WI,,,,WI,
+Charlotte,Kranch,,,WI,,,,WI,
+Gregory J,Mccarthy,,,WI,,,,WI,
+Allan B.,Cohl,,,WI,,,,WI,
+William C.,Kohl,,,WI,,,,WI,
+Pauline,Nwagbaraocha,,,WI,,,,WI,
+Mary Ellen C.,Liebherr,,,WI,,,,WI,
+Mark J.,Wycklendt,,,WI,,,,WI,
+Peter,A. And Elaine A. Godfrey Living Trust Dated 7-22-2014,,,WI,,,,WI,
+Collin,Weithaus,,,WI,,,,WI,
+Peggy,Wells,,,WI,,,,WI,
+Gerald,Skalmusky,,,WI,,,,WI,
+Fredric M.,Wein,,,WI,,,,WI,
+Beth Ann,Corona,,,WI,,,,WI,
+Daryl J.,Ransom,,,WI,,,,WI,
+Mary Tersa,Dalton,3101 E FOREST LN,Oak Creek,WI,53154,,,WI,
+Janet M.,Moederndorfer,,,WI,,,,WI,
+James George,Heil,,,WI,,,,WI,
 Philip,Bourbonais,,,WI,,,,WI,
 Richard,J Lango,,,WI,,,,WI,
 Charles,Forsberg,,,WI,,,,WI,
@@ -20,6 +134,43 @@ Laura,Gmach,,,WI,,,,WI,
 Renaissance,Design & Renovation Llc,,,WI,,,,WI,
 Shaun,D Bender,,,WI,,,,WI,
 Ivette,Delgado,,,WI,,,,WI,
+Begin,Again Llc,,,WI,,,,WI,
+Alexis,Armstrong,,,WI,,,,WI,
+Sharnell,S Sayles,,,WI,,,,WI,
+Keaunna,S Smith,10237 W FEERICK PL,Wauwatosa,WI,53222,,,WI,
+Nathalie,Walton,,,WI,,,,WI,
+Alisha,Garrett,2408 N 114TH ST,Wauwatosa,WI,53226,,,WI,
+Roxanne,Ward,,,WI,,,,WI,
+Alisha,Rodgers,,,WI,,,,WI,
+Connie,Griffin,2210 N 73RD ST,Wauwatosa,WI,53213,,,WI,
+Leon,Myers,,,WI,,,,WI,
+Shanette,L Studs,,,WI,,,,WI,
+Michaely,Cuevas,,,WI,,,,WI,
+Tameka,Hancock,,,WI,,,,WI,
+Bennie,Williams Jr,,,WI,,,,WI,
+Paola,I. Rodriguez Juarez,,,WI,,,,WI,
+Ramon,Ortiz,,,WI,,,,WI,
+Erielle,R. Belton,,,WI,,,,WI,
+Brendan,L. Harrell,,,WI,,,,WI,
+Steven,James Lisowski,,,WI,,,,WI,
+Martha,Marie Cortes,,,WI,,,,WI,
+Jacob,L. Crews,,,WI,,,,WI,
+Keisha,Williams,,,WI,,,,WI,
+Deandrea,Young,,,WI,,,,WI,
+Paula,Jones,,,WI,,,,WI,
+Jacqueline,L Malaine,,,WI,,,,WI,
+Qeyontice,Harris,,,WI,,,,WI,
+Charvell,M. Gillespie,,,WI,,,,WI,
+Llc,Kleen Bzz,,,WI,,,,WI,
+Gabriel,T Marin,,,WI,,,,WI,
+Adel,Abdalrahman,,,WI,,,,WI,
+Joseph,D Brown,1716 ALTA VISTA AVE,Wauwatosa,WI,53213,,,WI,
+Cing,Kiim,,,WI,,,,WI,
+Lee,Garro,,,WI,,,,WI,
+Tauheedah,Sabreekelsey,,,WI,,,,WI,
+Nacional,Tax Service Llc,3303 W NATIONAL AVE,Milwaukee,WI,53215,,,WI,
+Marvin,Darby,,,WI,,,,WI,
+Ayantade,Property Management L,1956 S 73 ST,West Allis,WI,53219,,,WI,
 Darius,C Bunch,,,WI,,,,WI,
 Alberto,Velazquez,,,WI,,,,WI,
 Sean,Dixon,,,WI,,,,WI,
@@ -55,151 +206,6 @@ Yul,Andrews,,,WI,,,,WI,
 Shanda,Woodruff,,,WI,,,,WI,
 Jasmine,Drew,10661 W GRANTOSA DR,Wauwatosa,WI,53222,,,WI,
 Michael,Eitel,,,WI,,,,WI,
-Jasmine,Johnson,8982 S BLUESTEM CT,Franklin,WI,53132,8982 S BLUESTEM CT S,Franklin,WI,53132
-Amber,N. Whitley,4531 N 103RD ST,Wauwatosa,WI,53225,4531 N 103RD ST,Wauwatosa,WI,53225
-Hashim,Bin Ali,711 E MARY LN,Oak Creek,WI,53154,711 E MARY LN,Oak Creek,WI,53154
-Gustavo,Gomez,,,WI,,,,WI,
-Marcia,Johnson,1351 N 64TH ST,Wauwatosa,WI,53213,,,WI,
-Nestor,Dejesus Fletes Prado,,,WI,,,,WI,
-Timothy,R. Leister,,,WI,,,,WI,
-Debria,Moncree,,,WI,,,,WI,
-Joel,R. Hunter,,,WI,,,,WI,
-Tracee,Cooper,,,WI,,,,WI,
-Frederick,E. Black,,,WI,,,,WI,
-Brenda,Williams Pearson,,,WI,,,,WI,
-Terrence,L. Stricklin,,,WI,,,,WI,
-John,Russell Campbell,,,WI,,,,WI,
-Virginia,Gipson,,,WI,,,,WI,
-Sunghyop,Paek,,,WI,,,,WI,
-Deceased,Estate Of Kenneth Ray Dean,,,WI,,,,WI,
-Kathy,M Harris,,,WI,,,,WI,
-Angelo,Enrique Flores,,,WI,,,,WI,
-Isaac,Camacho-Medina,,,WI,,,,WI,
-Shatoya,Payton,,,WI,,,,WI,
-Tamika,K. Flagg,,,WI,,,,WI,
-Kelly,Nelson,2551 N WEIL ST,Milwaukee,WI,53212,,,WI,
-Stephanie,Vazquez,,,WI,,,,WI,
-Brittany,Young,2376 N 62ND ST,Wauwatosa,WI,53213,2376 N 62ND ST,Wauwatosa,WI,53213
-Otb,Property Management Llc,PO BOX 80658,Milwaukee,WI,53208,4236 N 19TH ST,Milwaukee,WI,53209
-Otb,Property Management Llc,PO BOX 80658,Milwaukee,WI,53208,4236 N 19TH ST,Milwaukee,WI,53209
-Laurene A,Reynolds,11221 W POTTER RD,Wauwatosa,WI,53226,11221 W POTTER RD,Wauwatosa,WI,53226
-Mary E,Ginger,3934 E MARTIN AVE,Cudahy,WI,53110,3934 E MARTIN AVE,Cudahy,WI,53110
-Matthew,E. Goodwin,,,WI,,,,WI,
-Tysha,Chambers,,,WI,,,,WI,
-Estate,Of Maxine Cook,,,WI,,,,WI,
-Dayanna,Reyes Perez,,,WI,,,,WI,
-Kolawole,Alayande,,,WI,,,,WI,
-Diaz,Contractor Llc,2304 W ORCHARD ST,Milwaukee,WI,53204,,,WI,
-Lesean,Barnes,,,WI,,,,WI,
-Cametria,Anderson,6910 S HARVARD DR,Franklin,WI,53132,6910 S HARVARD DR S,Franklin,WI,53132
-Richard,R. Smith Jr.,1722 N 119TH ST,Wauwatosa,WI,53226,1722 N 119TH ST,Wauwatosa,WI,53226
-Noel,Torres Santiago,7406 N SANTA MONICA BLVD,Fox Point,WI,53217,3214 S 22ND ST,Milwaukee,WI,53215
-Nicole,M Riley,4122 S 84TH ST,Milwaukee,WI,53228,4122 S 84TH ST,Greenfield,WI,53220
-Xia,M Yang,6301 N 91ST ST,Milwaukee,WI,53225,6301 N 91ST ST,Milwaukee,WI,53225
-Wangs,Housing Solutions Inc,4320 W VILLARD AVE,Milwaukee,WI,53218,4408 N 62ND ST,Milwaukee,WI,53218
-Three,A Company,8 W SHORE RD,Belvedere,CA,94920,1600 W WISCONSIN AVE,Milwaukee,WI,53233
-Best,For Le$$ Llc,2541 N 19TH ST #B,Milwaukee,WI,53206,4839 N GREEN BAY AVE,Milwaukee,WI,53209
-2571,N 40Th Llc,539 MADISON ST,Waukesha,WI,53188,2571 N 40TH ST,Milwaukee,WI,53210
-2207,Property Llc,PO BOX 1044,Milwaukee,WI,53201,2207 N 32ND ST,Milwaukee,WI,53208
-Llc,West Allis Hotel Ventures,8201 W GREENFIELD AVE,West Allis,WI,53214,8201 W GREENFIELD AVE,West Allis,WI,53214
-Pbj,Oak Creek Llc,8901 NILES CENTER RD,Skokie,IL,60076,7141 S 13TH ST,Oak Creek,WI,53154
-Mary,L. Mason,2567 N BARTLETT AVE,Milwaukee,WI,53211,2567 N BARTLETT AVE,Milwaukee,WI,53211
-Jo-Will,Llc,129 W TOWNSEND ST,Milwaukee,WI,53212,2901 N DR WILLIAM FINLAYSON ST,Milwaukee,WI,53212
-Houses,Incorporated,103 W CHAMBERS ST,Milwaukee,WI,53212,2576 N 17TH ST,Milwaukee,WI,53206
-Scott,L Thomas,7820 WARREN AVE,Wauwatosa,WI,53213,7820 WARREN AVE,Wauwatosa,WI,53213
-Eric Eugene,Speelman,2602 LEFEBER AVE,Wauwatosa,WI,53213,2602 LEFEBER AVE,Wauwatosa,WI,53213
-Anwar Nafis,Floyd Pruitt,2237 N 49TH ST,Milwaukee,WI,53208,2237 N 49TH ST,Milwaukee,WI,53208
-James,Clay,5038 N LYDELL AVE,Whitefish Bay,WI,53217,5038 N LYDELL AVE,Whitefish Bay,WI,53217
-Michael James,Bennett,4630 N 32ND ST,Milwaukee,WI,53209,4630 N 32ND ST,Milwaukee,WI,53209
-Aaron John,Sprecher,145 N 86TH ST,Wauwatosa,WI,53226,145 N 86TH ST,Wauwatosa,WI,53226
-Mabel Jane,Lovett,421 E WYNBROOK DR,Oak Creek,WI,53154,421 E WYNBROOK DR,Oak Creek,WI,53154
-Thomas M.,Lanphier,9633 S 35TH ST,Franklin,WI,53132,9633 S 35TH ST S,Franklin,WI,53132
-Lori V,Sheets,2606 LANDER LN,Waukesha,WI,53188,7323 W BENNETT AVE,West Allis,WI,53219
-Ventley Roy,Williams,719 S 92 ST,West Allis,WI,53214,719 S 92ND ST,West Allis,WI,53214
-Michael P,Thomson,1045 N PERRY CT,Wauwatosa,WI,53213,1045 N PERRY CT,Wauwatosa,WI,53213
-Lucille J.,Wagner,11905 W OXFORD PL,Wauwatosa,WI,53226,11905 W OXFORD PL,Wauwatosa,WI,53226
-Lucille J,Wagner,11905 W OXFORD PL,Wauwatosa,WI,53226,11905 W OXFORD PL,Wauwatosa,WI,53226
-Rosevelt,Williams Sr.,8657 S DEERWOOD LN,Franklin,WI,53132,8657 S DEERWOOD LN S,Franklin,WI,53132
-Michael Joseph,Brooks,2128 E HOLT AV,Milwaukee,WI,53207,2128 E HOLT AVE,Milwaukee,WI,53207
-Randy S.,Robinson,2720 N 95TH STREET,Milwaukee,WI,53222,2720 N 95TH ST,Milwaukee,WI,53222
-Edward N.,Dane,10450 W ST FRANCIS AVE,Greenfield,WI,53228,10450 W ST FRANCIS AVE,Greenfield,WI,53228
-Randall P.,Gnadt,2617 N WAHL AVE,Milwaukee,WI,53211,2617 N WAHL AVE,Milwaukee,WI,53211
-Janice M.,Casper,4185 S 92 ST,Greenfield,WI,53228,4185 S 92ND ST,Greenfield,WI,53228
-Joel S,Krueger,7216 S DOVER HILL CT,Franklin,WI,53132,7216 S DOVER HILL CT S,Franklin,WI,53132
-"Daniel G, Jr",Mattes,7416 CARTER CIR,W Franklin,WI,53132,7416 W CARTER CIR W,Franklin,WI,53132
-John Benjamin,Sanders,12141 PARKVIEW LN,Hales Corners,WI,53130,12141 PARKVIEW LN,Hales Corners,WI,53130
-Rise L.,Kaiser,7822 STICKNEY AVE,Wauwatosa,WI,53213,7822 STICKNEY AVE,Wauwatosa,WI,53213
-Maxine,Bates,1811 N 118TH ST,Wauwatosa,WI,53226,1811 N 118TH ST,Wauwatosa,WI,53226
-Katherine Anne,Collins,806 E KILBOURN AVE,Milwaukee,WI,53202,2014 N 86TH ST,Wauwatosa,WI,53226
-Carol,Baewer,,,WI,,,,WI,
-Kristi M.,Nauertz,,,WI,,,,WI,
-Kevin G,Otzelberger,,,WI,,,,WI,
-Dale,Galten,,,WI,,,,WI,
-Charlotte,Kranch,,,WI,,,,WI,
-Gregory J,Mccarthy,,,WI,,,,WI,
-Allan B.,Cohl,,,WI,,,,WI,
-William C.,Kohl,,,WI,,,,WI,
-Pauline,Nwagbaraocha,,,WI,,,,WI,
-Mary Ellen C.,Liebherr,,,WI,,,,WI,
-Mark J.,Wycklendt,,,WI,,,,WI,
-Peter,A. And Elaine A. Godfrey Living Trust Dated 7-22-2014,,,WI,,,,WI,
-Collin,Weithaus,,,WI,,,,WI,
-Peggy,Wells,,,WI,,,,WI,
-Gerald,Skalmusky,,,WI,,,,WI,
-Fredric M.,Wein,,,WI,,,,WI,
-Beth Ann,Corona,,,WI,,,,WI,
-Daryl J.,Ransom,,,WI,,,,WI,
-Mary Tersa,Dalton,3101 E FOREST LN,Oak Creek,WI,53154,,,WI,
-Janet M.,Moederndorfer,,,WI,,,,WI,
-James George,Heil,,,WI,,,,WI,
-Richard Robert,Fraundorf,,,WI,,,,WI,
-Helen Marie,Dixon,,,WI,,,,WI,
-Roger W,Tollefson,,,WI,,,,WI,
-Annette H,Engel,,,WI,,,,WI,
-Gretchen,St.Julien,,,WI,,,,WI,
-Marilyn Hatz,Storney,,,WI,,,,WI,
-Dorothy,Dzierzewski,,,WI,,,,WI,
-Gregory Lamar,Powell,,,WI,,,,WI,
-Begin,Again Llc,,,WI,,,,WI,
-Alexis,Armstrong,,,WI,,,,WI,
-Sharnell,S Sayles,,,WI,,,,WI,
-Keaunna,S Smith,10237 W FEERICK PL,Wauwatosa,WI,53222,,,WI,
-Nathalie,Walton,,,WI,,,,WI,
-Alisha,Garrett,2408 N 114TH ST,Wauwatosa,WI,53226,,,WI,
-Roxanne,Ward,,,WI,,,,WI,
-Alisha,Rodgers,,,WI,,,,WI,
-Connie,Griffin,2210 N 73RD ST,Wauwatosa,WI,53213,,,WI,
-Leon,Myers,,,WI,,,,WI,
-Shanette,L Studs,,,WI,,,,WI,
-Michaely,Cuevas,,,WI,,,,WI,
-Tameka,Hancock,,,WI,,,,WI,
-Bennie,Williams Jr,,,WI,,,,WI,
-Paola,I. Rodriguez Juarez,,,WI,,,,WI,
-Ramon,Ortiz,,,WI,,,,WI,
-Erielle,R. Belton,,,WI,,,,WI,
-Brendan,L. Harrell,,,WI,,,,WI,
-Steven,James Lisowski,,,WI,,,,WI,
-Martha,Marie Cortes,,,WI,,,,WI,
-Jacob,L. Crews,,,WI,,,,WI,
-Keisha,Williams,,,WI,,,,WI,
-Deandrea,Young,,,WI,,,,WI,
-Paula,Jones,,,WI,,,,WI,
-Jacqueline,L Malaine,,,WI,,,,WI,
-Qeyontice,Harris,,,WI,,,,WI,
-Charvell,M. Gillespie,,,WI,,,,WI,
-Llc,Kleen Bzz,,,WI,,,,WI,
-Gabriel,T Marin,,,WI,,,,WI,
-Adel,Abdalrahman,,,WI,,,,WI,
-Joseph,D Brown,1716 ALTA VISTA AVE,Wauwatosa,WI,53213,,,WI,
-Cing,Kiim,,,WI,,,,WI,
-Ifedayo,O Kehinde,8605 N 117TH ST,Milwaukee,WI,53224,8605 N 117TH ST,Milwaukee,WI,53224
-Keith,Lavon Hughes,2001 N 119TH ST,Wauwatosa,WI,53226,2001 N 119TH ST,Wauwatosa,WI,53226
-Shakil,A. Lea,9079 W KENSINGTON WAY,Franklin,WI,53132,9079 W KENSINGTON WAY W,Franklin,WI,53132
-Lee,Garro,,,WI,,,,WI,
-Tauheedah,Sabreekelsey,,,WI,,,,WI,
-Nacional,Tax Service Llc,3303 W NATIONAL AVE,Milwaukee,WI,53215,,,WI,
-Marvin,Darby,,,WI,,,,WI,
-Ayantade,Property Management L,1956 S 73 ST,West Allis,WI,53219,,,WI,
 Flores,Freight Llc,,,WI,,,,WI,
 Sheldon,And Marianne Lubar 2012 Descendants Trust,,,WI,,,,WI,
 Kalibre'S,Agave Cantina & Lounge,,,WI,,,,WI,
@@ -311,6 +317,14 @@ Midwest,Security Enforcement,,,WI,,,,WI,
 Inc.,Rcs Systems,,,WI,,,,WI,
 Impulse,Productions Llc,,,WI,,,,WI,
 Dnt,Associates Inc,,,WI,,,,WI,
+Theresa Helen,Sowinski,,,WI,,,,WI,
+Christine Ann,Stagge,,,WI,,,,WI,
+Julia L.,Heard,,,WI,,,,WI,
+Colleen,Koszyczarek,,,WI,,,,WI,
+Jerry L.,Unger,,,WI,,,,WI,
+Joanne L.,Rupar,,,WI,,,,WI,
+Albert Craig,Frazier,,,WI,,,,WI,
+Brian W,Grandaw,,,WI,,,,WI,
 Lavern Catherine,Bielicki,,,WI,,,,WI,
 Janis L,Gotz,,,WI,,,,WI,
 David I.,Bednarek,,,WI,,,,WI,
@@ -339,21 +353,19 @@ Eugene,Hughes,,,WI,,,,WI,
 Richard B.,Alioto,,,WI,,,,WI,
 Raymond,Fournelle,,,WI,,,,WI,
 Whyman J,Hassel,,,WI,,,,WI,
-Diane,Bakazan,,,WI,,,,WI,
 Howard C.,Volz,,,WI,,,,WI,
-Raymond T,Nixon,,,WI,,,,WI,
-Rosemary Spring,Cleveland,,,WI,,,,WI,
-Charles Cable,Gillette,,,WI,,,,WI,
-Donald D,Roethig,,,WI,,,,WI,
-Patricia A.,Carravetta,,,WI,,,,WI,
 Sharon L.,Kasik,,,WI,,,,WI,
-Theodore,Palmisano,,,WI,,,,WI,
-Linda,Riley,1521 BLAKEWOOD CT,South Milwaukee,WI,53172,,,WI,
-Eileen Marie,Jenkins,,,WI,,,,WI,
-Sandra,Ellis,,,WI,,,,WI,
-John T,Barger,,,WI,,,,WI,
-Craig A.,Pfister,,,WI,,,,WI,
+Dennis A,Dvorak,,,WI,,,,WI,
+Matthew W.,Fuchs,,,WI,,,,WI,
+Richard E,Meerdink,,,WI,,,,WI,
+Elizabeth,Scibek-Legault,,,WI,,,,WI,
+Harry D.,Burrows,,,WI,,,,WI,
+Michael E.,Tarman,,,WI,,,,WI,
+"Jovon, Sr",Jovonovich,,,WI,,,,WI,
+Carol Ann,Turner,,,WI,,,,WI,
+Gerald K.,Bergtrom,,,WI,,,,WI,
 Christy,Tuchel,,,WI,,,,WI,
+Lori V,Sheets,,,WI,,,,WI,
 John,Hien,,,WI,,,,WI,
 Theresa D.,Sundberg,,,WI,,,,WI,
 Georg J.,Tillman,,,WI,,,,WI,
@@ -382,15 +394,14 @@ Birt,Joy,8905 N NAVAJO RD,Bayside,WI,53217,,,WI,
 Sonya M.,Sotelo,,,WI,,,,WI,
 David R.,Bednar,,,WI,,,,WI,
 Howard L.,Loeb,,,WI,,,,WI,
-Theresa Helen,Sowinski,,,WI,,,,WI,
-Christine Ann,Stagge,,,WI,,,,WI,
-Julia L.,Heard,,,WI,,,,WI,
-Colleen,Koszyczarek,,,WI,,,,WI,
-Jerry L.,Unger,,,WI,,,,WI,
-Joanne L.,Rupar,,,WI,,,,WI,
-Albert Craig,Frazier,,,WI,,,,WI,
-Brian W,Grandaw,,,WI,,,,WI,
+Brenda Joyce,Stewart,,,WI,,,,WI,
+David Allen,Henderson,,,WI,,,,WI,
+Debra Sue,Schmidt,6833 S 107TH ST,Franklin,WI,53132,,,WI,
+Carol A.,Engel,,,WI,,,,WI,
+William H,Kissinger,,,WI,,,,WI,
+John M.,Bolger,,,WI,,,,WI,
 James Gerard,Walczyk,,,WI,,,,WI,
+Patricia Ann,Fietz,,,WI,,,,WI,
 Fanny,Tereshko,,,WI,,,,WI,
 Ashley J,Lazarski,,,WI,,,,WI,
 Dawn A,Hyche,,,WI,,,,WI,
@@ -409,15 +420,9 @@ Wayne T,Gasparich,,,WI,,,,WI,
 Anna M.,Burgemeister,,,WI,,,,WI,
 Beverly J.,Treloar,,,WI,,,,WI,
 Erskine Leon,Bowles,,,WI,,,,WI,
-Dennis A,Dvorak,,,WI,,,,WI,
-Matthew W.,Fuchs,,,WI,,,,WI,
-Richard E,Meerdink,,,WI,,,,WI,
-Elizabeth,Scibek-Legault,,,WI,,,,WI,
-Harry D.,Burrows,,,WI,,,,WI,
-Michael E.,Tarman,,,WI,,,,WI,
-"Jovon, Sr",Jovonovich,,,WI,,,,WI,
-Carol Ann,Turner,,,WI,,,,WI,
-Gerald K.,Bergtrom,,,WI,,,,WI,
+Vershandale,Bowman,,,WI,,,,WI,
+Raymond,Bula,,,WI,,,,WI,
+Mark D.,Ciesielski,,,WI,,,,WI,
 Sandra M,Wilking,,,WI,,,,WI,
 Nancy,May,,,WI,,,,WI,
 Catherine A,Wendt,,,WI,,,,WI,
@@ -438,14 +443,15 @@ Donald L.,Engel,,,WI,,,,WI,
 Carol A.,Engel,,,WI,,,,WI,
 Cynthia Mae,Hiltunen,,,WI,,,,WI,
 Gregory,Horning,,,WI,,,,WI,
-Brenda Joyce,Stewart,,,WI,,,,WI,
-David Allen,Henderson,,,WI,,,,WI,
-Debra Sue,Schmidt,6833 S 107TH ST,Franklin,WI,53132,,,WI,
-Carol A.,Engel,,,WI,,,,WI,
-William H,Kissinger,,,WI,,,,WI,
-John M.,Bolger,,,WI,,,,WI,
-Patricia Ann,Fietz,,,WI,,,,WI,
+Clyde Vincent,Polster,,,WI,,,,WI,
+Cindy,Lyman,,,WI,,,,WI,
+Virginia K.,Cullen,,,WI,,,,WI,
+Mary G,Taylor,4232 RAYMIR CIR,Wauwatosa,WI,53222,,,WI,
+Douglas,Jack,1326 S 113 ST,West Allis,WI,53214,,,WI,
 Marilyn R.,Kolter,,,WI,,,,WI,
+Terilin R.,Thode,,,WI,,,,WI,
+Robert Charles,Bushell,,,WI,,,,WI,
+John J.,Krysiak,,,WI,,,,WI,
 Irma Y.,Caceres Vielman,,,WI,,,,WI,
 Karen,Pendergast,,,WI,,,,WI,
 U.S.,Bank National Association,2800 E LAKE ST,Minneapolis,MN,55406,,,WI,
@@ -473,9 +479,11 @@ Randy D.,Genaw,,,WI,,,,WI,
 Patrick Mark,Zbichorski Sr.,,,WI,,,,WI,
 Malissa Mai,Myrick,,,WI,,,,WI,
 Sean J,Kearney,,,WI,,,,WI,
-Vershandale,Bowman,,,WI,,,,WI,
-Raymond,Bula,,,WI,,,,WI,
-Mark D.,Ciesielski,,,WI,,,,WI,
+Alton,Smith,2414 N 86TH ST,Wauwatosa,WI,53226,,,WI,
+Vincent W.,Bergstrom,,,WI,,,,WI,
+Todd C.,Bradley,9190 N GREENBROOK RD,River Hills,WI,53217,,,WI,
+Nikolos,Wier,,,WI,,,,WI,
+Grace L.,Smith,,,WI,,,,WI,
 Ronald,Dondlinger,,,WI,,,,WI,
 Vivian,Limberatos,,,WI,,,,WI,
 Dennis,Jack,1326 S 113 ST,West Allis,WI,53214,,,WI,
@@ -501,15 +509,11 @@ Donna L,Jahimiak,,,WI,,,,WI,
 Gail,Treptow,,,WI,,,,WI,
 "John W., Jr",Barbee,,,WI,,,,WI,
 Barbara L.,Corbine,,,WI,,,,WI,
-Clyde Vincent,Polster,,,WI,,,,WI,
 "Phillip J, Jr.",Kazmierski,,,WI,,,,WI,
-Cindy,Lyman,,,WI,,,,WI,
-Virginia K.,Cullen,,,WI,,,,WI,
-Mary G,Taylor,4232 RAYMIR CIR,Wauwatosa,WI,53222,,,WI,
-Douglas,Jack,1326 S 113 ST,West Allis,WI,53214,,,WI,
-Terilin R.,Thode,,,WI,,,,WI,
-Robert Charles,Bushell,,,WI,,,,WI,
-John J.,Krysiak,,,WI,,,,WI,
+Donna Mae,Duff,,,WI,,,,WI,
+Lp,Selene Finance,,,WI,,,,WI,
+Edward M.,Froiland,,,WI,,,,WI,
+Barbarann Viola,Delikat,,,WI,,,,WI,
 "Roy M., Jr",Whatley,,,WI,,,,WI,
 Bette C,Dulka,,,WI,,,,WI,
 Peter M,Cieslak,,,WI,,,,WI,
@@ -537,11 +541,6 @@ Guy Allen,Stadney,,,WI,,,,WI,
 Mary Jane,Verhein,,,WI,,,,WI,
 Jane T.,Heidemann,,,WI,,,,WI,
 Carol E,Fairbairn,,,WI,,,,WI,
-Alton,Smith,2414 N 86TH ST,Wauwatosa,WI,53226,,,WI,
-Vincent W.,Bergstrom,,,WI,,,,WI,
-Todd C.,Bradley,9190 N GREENBROOK RD,River Hills,WI,53217,,,WI,
-Nikolos,Wier,,,WI,,,,WI,
-Grace L.,Smith,,,WI,,,,WI,
 Diane R.,Brown,2400 S 108TH ST,Milwaukee,WI,53227,,,WI,
 "Danny L., Jr.",Owings,,,WI,,,,WI,
 Oswald A.,Mundt,,,WI,,,,WI,
@@ -575,15 +574,3 @@ Theresa Marie,Hartnett,,,WI,,,,WI,
 Jill A,Bondar,,,WI,,,,WI,
 Diane L,Kosloske,,,WI,,,,WI,
 Clyde,Gehring,,,WI,,,,WI,
-Donna Mae,Duff,,,WI,,,,WI,
-Lp,Selene Finance,,,WI,,,,WI,
-Edward M.,Froiland,,,WI,,,,WI,
-Barbarann Viola,Delikat,,,WI,,,,WI,
-Manuel,Urena,,,WI,,,,WI,
-Heather,Rochon,,,WI,,,,WI,
-Krista,Balles,,,WI,,,,WI,
-Etienne,Gato,,,WI,,,,WI,
-Dynell,D Wimberly,,,WI,,,,WI,
-Blufox,Automotive Llc,,,WI,,,,WI,
-Dasha,N Kelly Hamilton,,,WI,,,,WI,
-Blufox,Automotive Llc,,,WI,,,,WI,
